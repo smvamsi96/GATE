@@ -1,0 +1,48 @@
+T minus 304 days.
+
+Syllabus is Huge.
+I cannot listen to those lectures directly.
+Too meaningless.
+I need to understand those subjects by reading books myself.
+This takes time.
+
+These are the courses I need to Complete, in this order:
+
+-Theory of Computation:
+	I think I can handle this without any books.
+
+-Operating Systems:
+	Should start with books
+
+-Computer Networks
+
+-Compiler Design
+
+-Digital Logic Design
+
+-Computer Organization & Architecture
+
+-Database Management System
+
+-Algorithms
+
+-Data Structures
+
+-C Programming
+
+-Math
+	Math's mostly familiar.
+	Will start after December(within 2 months of GATE)
+
+-Aptitude
+	what Math said
+
+
+THE PLAN
+
+In the spirit of Parallel Processing,
+
+- Read as much as you can about,
+	- Operating Systems
+	- Computer Networks
+	- Algorithms & Data Structures
